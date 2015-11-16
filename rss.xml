@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shingtest2]]></title>
         <description><![CDATA[shingtest2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shingtest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 13:54:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 17:35:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shingtest2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PlateCulture - Off the eaten track]]></title>
+            <description><![CDATA[<article><h1>PlateCulture - Off the eaten track</h1><p>Find a home to dine in. Meet interesting people & eat authentic food.</p><img src="https://d37vljbidwg0z6.cloudfront.net/assets/people-7851c812d9d9d8124ab0d097f730320d.png"></article>]]></description>
+            <link>https://plateculture.com/</link>
+            <guid isPermaLink="false">6a859ea3-be64-4a13-bc51-8bf478cc6ebe</guid>
+            <pubDate>Mon, 16 Nov 2015 17:33:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.bbc.com/travel/sponsored/story/20151111-life-as-a-journey</p>]]></description>
-            <link>undefinedcc32ab16-46cd-40c5-a5f3-be46eef07a49/index.html</link>
+            <link>https://thegrid.ai/shingtest2/cc32ab16-46cd-40c5-a5f3-be46eef07a49/index.html</link>
             <guid isPermaLink="false">cc32ab16-46cd-40c5-a5f3-be46eef07a49</guid>
             <pubDate>Mon, 16 Nov 2015 13:54:43 GMT</pubDate>
         </item>
