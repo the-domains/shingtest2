@@ -1,0 +1,23 @@
+name: shingtest2
+favicon: null
+layout_spectrum: 0.3687237224075943
+typography_spectrum: 0.19508152198977768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9596238944213837
+  lightness: 0.7000448044855148
+  saturation: 0.5329916216433048
+  rhythmicContrast: 0.3850296644959599
+purpose: []
